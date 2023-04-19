@@ -1,0 +1,17 @@
+.about-me {
+ height: 80vh;
+}
+
+.user-info h1 {
+ padding: 1rem;
+}
+
+.user-info img {
+ width: 100px;
+ height: 100px;
+ border-radius: 50%;
+}
+
+.about-me-param {
+ font-size: 2rem;
+}
